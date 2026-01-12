@@ -1,5 +1,3 @@
-## ADD: Core logic is implemented in Python modules for clarity and reuse, while notebooks are used to execute experiments and generate the tables and figures reported in the thesis.”
-
 ### How to keep it reproducible now, even before the “one command run”
 You can still be very reproducible by adopting this rule:
 Rule: every notebook must end by writing outputs to results/ and figures/
