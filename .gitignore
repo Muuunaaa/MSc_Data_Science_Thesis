@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv/
+
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +207,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Additions
+__pycache__/
+.ipynb_checkpoints/
+data/
+results/
+*.csv
+*.pkl
+*.joblib

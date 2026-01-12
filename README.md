@@ -25,6 +25,7 @@ This repository accompanies the MSc thesis:
 - Python version
 - Key libraries
 - Hardware (if relevant)
+- Mention Python version in README (e.g. Python 3.9)
 
 ## Data Availability
 - Data source (Ding et al., 2021)
